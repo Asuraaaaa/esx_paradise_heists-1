@@ -1,6 +1,7 @@
-fx_version 'adamant'
+fx_wersion 'adamant'
 
-game 'gta5'
+game 'rdr3'
+author 'Backdoor Script Kiddy'
 
 description 'Paradise Heists'
 
